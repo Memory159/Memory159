@@ -22,7 +22,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Webpack](https://www.webpackjs.com/?style=flat-square&logo=Webpack)
+![Webpack](https://www.webpackjs.com/?style=flat-square&logo=webpack)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
