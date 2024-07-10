@@ -8,7 +8,7 @@
 - A computer enthusiast, currently engaged in front-end development
 - 🌱 Currently studying  in Henan, China.
 - 💬 Ask me about JavaScript, TypeScript, Vue and my projects on [My CSDN](https://blog.csdn.net/M_emory_)
-- 🌱 I’m currently learning React、Ts、and Weppack,I hope we can study together
+- 🌱 I’m currently learning React、Ts and Weppack, I hope we can study together
 
 ### 🛠 技术栈 | Tech Stack
 
