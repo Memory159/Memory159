@@ -42,6 +42,7 @@
 - [Vue3+Ts 实现商品管理后台](https://github.com/Memory159/vue3_guigu_admin)
 - [这里会不定时更新一些 js 重点内容](https://github.com/Memory159/Some-important-code)
 - [webpack 中的自定义 loader 和 plugin](https://github.com/Memory159/webpack-study)
+- [HarmonyOS学习案例](https://github.com/Memory159/myHarmonyOS-project)
 
 ### My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Memory159&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
